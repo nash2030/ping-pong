@@ -1,12 +1,12 @@
 var numberInput = [];
 
   function ping (number){
-    for (var index = 1; index <= number; index+=1){
+    for (var index = 1; index <= number; index++){
       if(index % 3 === 0){
-            numbersInput.push("ping");
+            numberInput.push("ping");
         }
         else if(index % 5 === 0){
-            numbersInput.push("pong");
+            numberInput.push("pong");
           }
         else if(index % 15 === 0){
             numberInput.push("pingpong");
@@ -21,5 +21,11 @@ var numberInput = [];
     $("form#ping").submit(function(){
       event.preventDefault();
       var number = parseInt($("input#integer").val());
-    })
-  })
+
+      ping(number);
+
+      numberInput.forEach(function(number)){
+        $("#feedback").append('<li>' + number + "</li>");
+      });
+    });
+  });

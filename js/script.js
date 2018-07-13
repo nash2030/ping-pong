@@ -19,6 +19,7 @@ var numberInput = [];
 
   $(document).ready(function(){
     $("form#ping").submit(function(){
-      
+      event.preventDefault();
+      var number = parseInt($("input#integer").val());
     })
   })

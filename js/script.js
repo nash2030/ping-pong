@@ -16,3 +16,9 @@ var numberInput = [];
         }
       }
   }
+
+  $(document).ready(function(){
+    $("form#ping").submit(function(){
+      
+    })
+  })

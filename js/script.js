@@ -14,5 +14,5 @@ var numberInput = [];
         else{
             numberInput.push(index);
         }
-
+      }
   }

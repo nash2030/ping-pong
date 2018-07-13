@@ -2,15 +2,15 @@ var numberInput = [];
 
   function ping (number){
     for (var index = 1; index <= number; index++){
-      if(index % 3 === 0){
-            numberInput.push("ping");
-        }
+      if(index % 15 === 0){
+          numberInput.push("pingpong");
+      }
         else if(index % 5 === 0){
             numberInput.push("pong");
           }
-        else if(index % 15 === 0){
-            numberInput.push("pingpong");
-        }
+        else if(index % 3 === 0){
+              numberInput.push("ping");
+          }
         else{
             numberInput.push(index);
         }
@@ -24,7 +24,7 @@ var numberInput = [];
 
       ping(number);
 
-      numberInput.forEach(function(number)){
+      numberInput.forEach(function(number){
         $("#feedback").append('<li>' + number + "</li>");
       });
     });

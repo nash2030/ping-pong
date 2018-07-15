@@ -1,15 +1,12 @@
 h1{
   text-align: center;
-  color:#fff;
+  color:black;
   border-bottom: blue;
 }
 h6{
   font-style: italic;
 }
 .container{
-  color:#fff;
+  color:black;
   margin-left: 100px;
-}
-body{
-  background-color: white;
 }

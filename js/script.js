@@ -22,7 +22,7 @@ var numberInput = [];
       event.preventDefault();
       var number = parseInt($("input#integer").val());
 
-      ping(number);
+     ping(number);
 
       numberInput.forEach(function(number){
         $("#feedback").append('<li>' + number + "</li>");

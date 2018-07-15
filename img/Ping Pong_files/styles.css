@@ -1,7 +1,7 @@
 h1{
   text-align: center;
   color:#fff;
-  border-bottom: blue;
+  border-bottom: #fff;
 }
 h6{
   font-style: italic;
@@ -11,5 +11,5 @@ h6{
   margin-left: 100px;
 }
 body{
-  background-color: white;
+  background-color: #010112;
 }

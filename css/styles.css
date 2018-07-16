@@ -11,3 +11,9 @@ h6{
   color:black;
   margin-left: 100px;
 }
+body{
+  background-image: url("../img/pingpongbg.jpeg");
+  background-size: cover;
+  height:600px;
+  background-repeat: no-repeat;
+}

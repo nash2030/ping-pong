@@ -15,19 +15,21 @@ body{
   background-size: cover;
   height:600px;
   background-repeat: no-repeat;
+
 }
-.slideshow{
-  display: none;
+#slideshow{
+  display: ;
 }
 #mathgame{
   max-width: 1000px;
   position: relative;
   margin: auto;
+  border-bottom-color:blue;
+  border-bottom-width: thick
 }
 .btn{
   transition: 1.0s ease;
 }
 .slideshow-container{
-  border-bottom-color:blue;
-  border
+
 }

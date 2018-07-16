@@ -2,6 +2,7 @@ h1{
   text-align: center;
   color:black;
   border-bottom: blue;
+  font-weight: bold;
 }
 h6{
   font-style: italic;

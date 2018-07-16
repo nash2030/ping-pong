@@ -34,7 +34,7 @@ showSlides();
 
 showSlides() {
   var i;
-  var slides = document.getElementsByClassName("slideshow");
+  var slides = document.getElementsById("slideshow");
   for (i = 0,index < slides.length, i++) {
   slides[i].style.display = "none";
 }

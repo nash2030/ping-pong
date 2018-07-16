@@ -19,8 +19,11 @@ body{
 .slideshow{
   display: none;
 }
-.slideshow-container{
+#mathgame{
   max-width: 1000px;
   position: relative;
   margin: auto;
+}
+.btn{
+  transition: 1.0s ease;
 }

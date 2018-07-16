@@ -30,16 +30,16 @@ var numberInput = [];
     });
   });
 var slideIndex = 0;
-carousel();
+showSlides();
 
-carousel() {
-  var index;
-  var caption = document.getElementsByClassName("slideshow");
-  for (index = 0,index < caption.length, index++) {
-  caption[index].style.display = "none";
+showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("slideshow");
+  for (i = 0,index < slides.length, i++) {
+  slides[i].style.display = "none";
 }
 slideIndex++;
-if (slideIndex>caption.length) {slideIndex=1}
-caption[slideIndex-1].style.display = "block";
-setTimeout(carousel, 2000);
+if (slideIndex > slides.length) {slideIndex = 1}
+slides[slideIndex-1].style.display = "block";
+setTimeout(showSlides, 2000);
 }

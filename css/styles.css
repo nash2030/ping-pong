@@ -14,8 +14,6 @@ h6{
 body{
   background-size: cover;
   height:600px;
-  background-repeat: no-repeat;
-
 }
 #slideshow{
   display: ;
@@ -30,7 +28,4 @@ body{
 }
 .btn{
   transition: 1.0s ease;
-}
-.slideshow-container{
-
 }

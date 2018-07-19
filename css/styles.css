@@ -3,6 +3,7 @@ h1{
   color:black;
   border-bottom: blue;
   font-weight: bold;
+  background-color: blue;
 }
 h6{
   font-style: italic;
@@ -16,7 +17,7 @@ h6{
 }
 body{
   height:600px;
-  background-color:#F6572D;
+  /*background-color:#F6572D;*/
 }
 #slideshow{
   display: ;
@@ -27,12 +28,15 @@ body{
   margin: auto;
   border-bottom-color:blue;
   border-bottom-width: thick;
+  box-sizing: border-box;
+  width: 20%;
+  height: 30%;
 
 }
 .btn{
   transition: 1.0s ease;
 }
 #play{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkA_Y_AVlNgzCElgdrraHcl3J_pu-qYseAayClo6oa3FzI1N3");
+  background-image: url("../img/good.jpeg");
   box-sizing: border-box;
 }

@@ -52,3 +52,7 @@ overflow: hidden;
   padding: 10px;
   font-size: 25px;
 }
+#slideshow{
+  background-color: red;
+  color:#fff;
+}

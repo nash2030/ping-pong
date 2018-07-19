@@ -27,7 +27,6 @@ body{
   max-width: 400px;
   position: relative;
   margin: auto;
-  border-bottom-color:blue;
   border-bottom-width: thick;
   width: 300px;
     height: 220px;
@@ -50,9 +49,14 @@ overflow: hidden;
     font-family: 'Niconne', cursive;
   text-align: center;
   padding: 10px;
+  background-image: url("../img/quote.jpeg");
+  color: #fff;
   font-size: 25px;
 }
 #slideshow{
   background-color: red;
-  color:#fff;
+  padding-bottom: 20px;
+}
+#slideshow h1{
+    color:#fff;
 }

@@ -77,3 +77,13 @@ span{
   padding-right: 50px;
   padding-left: 50px;
 }
+strong{
+  font-family: 'Chonburi', cursive;
+}
+#pingpong h6{
+
+font-family: 'Tangerine', cursive;
+font-size: 40px;
+color: red;
+font-weight: 600;
+}

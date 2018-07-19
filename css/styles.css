@@ -28,7 +28,7 @@ body{
   border-bottom-width: thick;
   width: 300px;
     height: 220px;
-    border: 1px solid blue;
+    border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
 }
@@ -42,7 +42,7 @@ overflow: hidden;
 #quote{
   width: 20%
     height: 100px;
-    border: 1px solid blue;
+    border: 1px solid #931C07;
     box-sizing: border-box;
     font-family: 'Niconne', cursive;
   text-align: center;
@@ -52,7 +52,7 @@ overflow: hidden;
   font-size: 25px;
 }
 #slideshow{
-  background-color: red;
+  background-color: #1C2833;
   padding-bottom: 20px;
 }
 #slideshow h1{

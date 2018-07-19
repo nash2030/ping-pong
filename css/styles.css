@@ -8,12 +8,15 @@ h6{
   font-style: italic;
 }
 .container{
-  color:black;
+  color:#fff;
   margin-left: 100px;
+
+  background-repeat: no-repeat;
+  background-size:contain;
 }
 body{
-  background-size: cover;
   height:600px;
+  background-color:#F6572D;
 }
 #slideshow{
   display: ;
@@ -28,4 +31,8 @@ body{
 }
 .btn{
   transition: 1.0s ease;
+}
+#play{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkkA_Y_AVlNgzCElgdrraHcl3J_pu-qYseAayClo6oa3FzI1N3");
+  box-sizing: border-box;
 }

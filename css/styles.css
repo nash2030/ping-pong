@@ -33,7 +33,7 @@ body{
     height: 220px;
     border: 1px solid blue;
     box-sizing: border-box;
-
+overflow: hidden;
 }
 .btn{
   transition: 1.0s ease;

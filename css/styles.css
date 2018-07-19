@@ -87,3 +87,12 @@ font-size: 40px;
 color: red;
 font-weight: 600;
 }
+#pingpong h5{
+  color:#17202A ;
+  font-weight: 600;
+}
+#pong li{
+  font-family: 'Chonburi', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Merienda', cursive;
+}

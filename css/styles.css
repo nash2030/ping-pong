@@ -19,9 +19,7 @@ body{
   height:600px;
   /*background-color:#F6572D;*/
   box-sizing: border-box;
-}
-#slideshow{
-  display: ;
+  background-color: #931C07;
 }
 #mathgame{
   max-width: 400px;
@@ -64,5 +62,9 @@ overflow: hidden;
   padding-bottom: 20px;
 }
 span{
-  
+  font-family: 'Abril Fatface', cursive;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
 }

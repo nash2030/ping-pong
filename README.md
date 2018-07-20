@@ -10,15 +10,16 @@ iii.Numbers divisible by 15 are replaced with "pingpong"
 
 #Technologies Used:
 
- HTML
- CSS
- JavaScript
+ * HTML
+ * CSS
+ * JavaScript
 #Setup:
 
- Open your browser
- Click on the url https://nash2030.github.io/ping-pong/
- And there you go!!
+   i.Open your browser
+  ii.Click on the url https://nash2030.github.io/ping-pong/
+ iii.And there you go!!
 
-[License](https://en.wikipedia.org/wiki/MIT_License)
+Web [License](https://en.wikipedia.org/wiki/MIT_License)
+
 #Credits
  Credits to Moringa School

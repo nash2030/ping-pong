@@ -31,6 +31,7 @@ body{
     border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
+margin-left: 430px;
 }
 .btn{
   transition: 1.0s ease;
@@ -106,8 +107,15 @@ font-family: 'Merienda', cursive;
 }
 .start{
   background-color:#B3B6B7;
+  box-sizing: border-box;
+  border: 2px solid black;
 }
 .school img{
   float:right;
   padding-right: 30px;
+}
+.schoolboy img{
+float: left;
+width: 10%;
+margin-bottom: 245px;
 }

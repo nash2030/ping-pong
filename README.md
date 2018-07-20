@@ -19,6 +19,6 @@ iii.Numbers divisible by 15 are replaced with "pingpong"
  Click on the url https://nash2030.github.io/ping-pong/
  And there you go!!
 
-
+[License](https://en.wikipedia.org/wiki/MIT_License)
 #Credits
  Credits to Moringa School

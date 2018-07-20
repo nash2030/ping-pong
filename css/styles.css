@@ -66,7 +66,9 @@ span{
   color: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: ;
+  background-color: black;
+  box-sizing: border-box;
+  border-width: 400px;
 }
 #pingpong{
   background-image: url("../img/bg.jpg");
@@ -103,5 +105,5 @@ font-family: 'Merienda', cursive;
   padding-left: 50px;
 }
 .start{
-  background-color:;
+  background-color:#B3B6B7;
 }

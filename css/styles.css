@@ -73,12 +73,13 @@ span{
 #pingpong{
   background-image: url("../img/bg.jpg");
   background-size: contain;
-  margin-right: 25px;
+  margin-right: 5px;
   padding-right: 50px;
   padding-left: 50px;
 }
 strong{
   font-family: 'Chonburi', cursive;
+  text-align: center;
 }
 #pingpong h6{
 
@@ -95,4 +96,11 @@ font-weight: 600;
   font-family: 'Chonburi', cursive;
 font-family: 'Tangerine', cursive;
 font-family: 'Merienda', cursive;
+}
+#pong{
+  background-image: url("https://beam.pro/_latest/assets/img/backgrounds/generic-001.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-right: 50px;
+  padding-left: 50px;
 }

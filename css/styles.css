@@ -109,10 +109,12 @@ font-family: 'Merienda', cursive;
   background-color:#B3B6B7;
   box-sizing: border-box;
   border: 2px solid black;
+  margin-bottom: 40px;
 }
 .school img{
   float:right;
   padding-right: 30px;
+  height: 100%;
 }
 .schoolboy img{
 float: left;

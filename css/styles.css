@@ -66,9 +66,7 @@ span{
   color: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
-}
-#play h1{
-
+  background-color: ;
 }
 #pingpong{
   background-image: url("../img/bg.jpg");
@@ -103,4 +101,7 @@ font-family: 'Merienda', cursive;
   background-repeat: no-repeat;
   padding-right: 50px;
   padding-left: 50px;
+}
+.start{
+  background-color:;
 }

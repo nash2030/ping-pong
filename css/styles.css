@@ -118,3 +118,6 @@ font-family: 'Merienda', cursive;
   margin-bottom: 0px;
   margin-top: 0px;
 }
+.bag{
+  float: left;
+}

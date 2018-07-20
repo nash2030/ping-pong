@@ -107,3 +107,7 @@ font-family: 'Merienda', cursive;
 .start{
   background-color:#B3B6B7;
 }
+.school img{
+  float:right;
+  padding-right: 30px;
+}

@@ -31,7 +31,7 @@ body{
     border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
-margin-left: 430px;
+margin-left: 230px;
 }
 .btn{
   transition: 1.0s ease;
@@ -119,5 +119,6 @@ font-family: 'Merienda', cursive;
   margin-top: 0px;
 }
 .bag{
-  float: left;
+  padding-left: 30px;
+  margin-bottom: 0px;
 }

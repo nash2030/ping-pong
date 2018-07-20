@@ -67,7 +67,7 @@ span{
   color: #fff;
   padding-top: 50px;
   padding-bottom: 50px;
-  background-color: black;
+  background-color: #17202A;
   box-sizing: border-box;
   border-width: 400px;
 }
@@ -115,9 +115,6 @@ font-family: 'Merienda', cursive;
   float:right;
   padding-right: 30px;
   height: 100%;
-}
-.schoolboy img{
-float: left;
-width: 10%;
-margin-bottom: 245px;
+  margin-bottom: 0px;
+  margin-top: 0px;
 }

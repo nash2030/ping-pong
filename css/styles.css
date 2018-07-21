@@ -27,7 +27,7 @@ h6{
   margin: auto;
   border-bottom-width: thick;
   width: 300px;
-    height: 220px;
+    height: 280px;
     border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
@@ -75,9 +75,9 @@ span{
   background-image: url("../img/bg.jpg");
   background-size: contain;
   margin-right: 5px;
-  padding-right: 25px;
+  padding-right: 2px;
   padding-left: 25px;
-  height: 100%;
+  height: 150%;
 }
 strong{
   font-family: 'Chonburi', cursive;

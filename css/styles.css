@@ -1,3 +1,10 @@
+body{
+  /* height:600px; */
+  /*background-color:#F6572D;*/
+  box-sizing: border-box;
+  background-color: #931C07;
+}
+
 h1{
   text-align: center;
   color:black;
@@ -15,12 +22,7 @@ h6{
   background-repeat: no-repeat;
   background-size:contain;
 }
-body{
-  height:600px;
-  /*background-color:#F6572D;*/
-  box-sizing: border-box;
-  background-color: #931C07;
-}
+
 #mathgame{
   max-width: 400px;
   position: relative;
@@ -123,5 +125,5 @@ font-family: 'Merienda', cursive;
   margin-bottom: 0px;
 }
 @media screen and (max-width: 992px) {
- 
+
   }

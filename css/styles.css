@@ -31,7 +31,7 @@ h6{
     border: 1px solid #931C07;
     box-sizing: border-box;
   overflow: hidden;
-  margin-left: 270px;
+  margin-left: 230px;
 }
 
 #play{
@@ -68,7 +68,6 @@ span{
   background-color: #17202A;
   box-sizing: border-box;
   border-width: 400px;
-  margin-right: 100px;
 }
 #pingpong{
   background-image: url("../img/bg.jpg");

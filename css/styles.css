@@ -75,8 +75,9 @@ span{
   background-image: url("../img/bg.jpg");
   background-size: contain;
   margin-right: 5px;
-  padding-right: 50px;
-  padding-left: 50px;
+  padding-right: 25px;
+  padding-left: 25px;
+  height: 100%;
 }
 strong{
   font-family: 'Chonburi', cursive;
@@ -103,7 +104,8 @@ font-family: 'Merienda', cursive;
   background-size: cover;
   background-repeat: no-repeat;
   padding-right: 50px;
-  padding-left: 50px;
+  padding-left: 50px
+  color: #fff;
 }
 .start{
   background-color:#B3B6B7;
@@ -121,7 +123,4 @@ font-family: 'Merienda', cursive;
 .bag{
   padding-left: 30px;
   margin-bottom: 0px;
-}
-#pong{
-  color: #fff;
 }

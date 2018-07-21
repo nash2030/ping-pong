@@ -27,7 +27,7 @@ h6{
   margin: auto;
   border-bottom-width: thick;
   width: 300px;
-    height: 280px;
+    height: 220px;
     border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
@@ -74,13 +74,9 @@ span{
 #pingpong{
   background-image: url("../img/bg.jpg");
   background-size: contain;
-  background-repeat: no-repeat;
   margin-right: 5px;
-  padding-right: 2px;
-  padding-left: 25px;
-  height: 150%;
-  padding-top: 30px;
-
+  padding-right: 50px;
+  padding-left: 50px;
 }
 strong{
   font-family: 'Chonburi', cursive;
@@ -106,7 +102,7 @@ font-family: 'Merienda', cursive;
   background-image: url("https://beam.pro/_latest/assets/img/backgrounds/generic-001.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  padding-right: 40px;
+  padding-right: 50px;
   padding-left: 50px
   color: #fff;
 }
@@ -126,4 +122,6 @@ font-family: 'Merienda', cursive;
 .bag{
   padding-left: 30px;
   margin-bottom: 0px;
+}
+#pong{
 }

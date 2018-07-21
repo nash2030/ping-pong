@@ -74,11 +74,13 @@ span{
 #pingpong{
   background-image: url("../img/bg.jpg");
   background-size: contain;
+  background-repeat: no-repeat;
   margin-right: 5px;
   padding-right: 2px;
   padding-left: 25px;
   height: 150%;
   padding-top: 30px;
+
 }
 strong{
   font-family: 'Chonburi', cursive;

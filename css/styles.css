@@ -3,6 +3,7 @@ body{
   /*background-color:#F6572D;*/
   box-sizing: border-box;
   background-color: #931C07;
+  overflow: hidden;
 }
 
 h1{

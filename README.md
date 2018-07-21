@@ -8,12 +8,12 @@ iii.Numbers divisible by 15 are replaced with "pingpong"
  *Example Input: 10 Output: 1, 2, ping, 4, pong,ping, 7,8,ping,pong*
 
 
-#Technologies Used:
+##Technologies Used:
 
  * HTML
  * CSS
  * JavaScript
-#Setup:
+##Setup:
 
    i.Open your browser
   ii.Click on the url https://nash2030.github.io/ping-pong/
@@ -21,5 +21,5 @@ iii.Numbers divisible by 15 are replaced with "pingpong"
 
 Web [License](https://en.wikipedia.org/wiki/MIT_License)
 
-#Credits
- Credits to Moringa School
+##Credits
+  Credits to Moringa School

@@ -30,12 +30,10 @@ h6{
     height: 220px;
     border: 1px solid #931C07;
     box-sizing: border-box;
-overflow: hidden;
-margin-left: 230px;
+  overflow: hidden;
+  margin-left: 270px;
 }
-.btn{
-  transition: 1.0s ease;
-}
+
 #play{
   background-image: url("../img/good.jpeg");
   box-sizing: border-box;
@@ -70,6 +68,7 @@ span{
   background-color: #17202A;
   box-sizing: border-box;
   border-width: 400px;
+  margin-right: 100px;
 }
 #pingpong{
   background-image: url("../img/bg.jpg");

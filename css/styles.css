@@ -122,9 +122,6 @@ font-family: 'Merienda', cursive;
   padding-left: 30px;
   margin-bottom: 0px;
 }
-@media screen and (max-width: 992px) {
-
-  }
 #pong{
   color: #fff;
 }

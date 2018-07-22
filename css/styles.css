@@ -31,6 +31,7 @@ h6{
     border: 1px solid #931C07;
     box-sizing: border-box;
 overflow: hidden;
+margin-left: 230px;
 }
 .btn{
   transition: 1.0s ease;

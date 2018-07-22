@@ -21,5 +21,5 @@ iii.Numbers divisible by 15 are replaced with "pingpong"
 
 Web [License](https://en.wikipedia.org/wiki/MIT_License)
 
-##Credits
+##Acknowledgement
   Credits to Moringa School
